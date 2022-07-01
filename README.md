@@ -1,4 +1,4 @@
-# geonhee-KIM
+# first-repository
 echo "# first-repository" >> README.md
 git init
 git add README.md
